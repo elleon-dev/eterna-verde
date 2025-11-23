@@ -92,7 +92,7 @@ export const FooterLayout = (): React.ReactNode => {
             © CopyRight 2025 - Eterna verde. Todos los derechos reservados
           </div>
           <div>
-            Desarrollado por <strong>Los libertadores</strong>
+            Desarrollado por <strong>IUBI</strong>
           </div>
         </div>
       </WrapperContainer>

@@ -92,7 +92,7 @@ export const FooterLayout = (): React.ReactNode => {
             © CopyRight 2025 - Eterna verde. Todos los derechos reservados
           </div>
           <div>
-            Desarrollado por <strong>IUBI</strong>
+            Desarrollado por <strong><a href="https://iubi.pe/" target="_blank">IUBI</a> </strong>
           </div>
         </div>
       </WrapperContainer>
